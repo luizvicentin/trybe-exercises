@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Trybe" src="" width="500px" />
+    <img alt="Trybe" src="https://github.com/luizvicentin/trybe-exercises/blob/master/trybe_logo.jpeg" width="500px" />
 </h1>
 
 This repository contains two folders, both created while studying at Trybe. The course-summaries folder contains home-made compiled lessons, so they can be consulted by peer students, whereas the exercises folder displays all the developed learning activities.
