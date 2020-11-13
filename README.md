@@ -9,7 +9,7 @@
 <p align="center">
 
   <a href="https://github.com/luizvicentin">
-    <img alt="Made by Luiz Vicentin" src="https://img.shields.io/badge/made%20by-LuizVicentin-%23F8952D">
+    <img alt="Made by Luiz Vicentin" src="https://img.shields.io/badge/made%20by-LuizVicentin-%234CA46A">
   </a>
 
   <a href="https://linkedin.com/in/luizvicentin/">
@@ -17,7 +17,7 @@
   </a>
 
   <a href="LICENSE" >
-    <img alt="License" src="https://img.shields.io/badge/license-MIT-%23F8952D">
+    <img alt="License" src="https://img.shields.io/badge/license-MIT-%#0E0E0E">
   </a>
 
 </p>
