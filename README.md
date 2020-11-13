@@ -2,7 +2,7 @@
     <img alt="Trybe" src="https://github.com/luizvicentin/trybe-exercises/blob/master/trybe_logo.jpeg" />
 </h1>
 
-<h3 align="center"> Exercises Trybe </h3>
+<h1 align="center"> Exercises Trybe </h1>
 
 <blockquote align="center">“Do your best, but always on time!”</blockquote>
 
@@ -11,6 +11,7 @@
 <a href="https://linkedin.com/in/luizvicentin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="luizvicentin" height="20" width="20" /></a>
 </p>
 
-This repository contains two folders, both created while studying at Trybe. The course-summaries folder contains home-made compiled lessons, so they can be consulted by peer students, whereas the exercises folder displays all the developed learning activities.
+<p>The Trybe program has more than 1,500 hours of classroom and online classes and covers front-end, back-end, computer science, software engineering, agile methodologies, and soft skills.</p>
 
-The Trybe program has more than 1,500 hours of classroom and online classes and covers front-end, back-end, computer science, software engineering, agile methodologies, and soft skills.
+<p>This repository contains two folders, both created while studying at Trybe. The course-summaries folder contains home-made compiled lessons, so they can be consulted by peer students, whereas the exercises folder displays all the developed learning activities.</p>
+
