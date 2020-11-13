@@ -11,7 +11,6 @@
 <a href="https://linkedin.com/in/luizvicentin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="luizvicentin" height="20" width="20" /></a>
 </p>
 
-<p>The Trybe program has more than 1,500 hours of classroom and online classes and covers front-end, back-end, computer science, software engineering, agile methodologies, and soft skills.</p>
+## The Trybe program has more than 1,500 hours of classroom and online classes and covers web development,front-end, back-end, computer science, software engineering, agile methodologies, and soft skills.
 
-<p>This repository contains two folders, both created while studying at Trybe. The course-summaries folder contains home-made compiled lessons, so they can be consulted by peer students, whereas the exercises folder displays all the developed learning activities.</p>
-
+# Studying JavaScript, HTML, CSS, React, Node, Express.js, SQL, Git, among other languages and frameworks.
