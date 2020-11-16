@@ -1,4 +1,6 @@
-let student = "euMesmo";
+
+"Eu sou Tryber e..." "Vou ter muito sucesso na programação!"
+
+let student = "Luiz";
 let studentSkills = 10;
-"Vou ter muito sucesso na programação!"
 console.log("Sucesso!");
