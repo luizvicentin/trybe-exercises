@@ -24,3 +24,5 @@
 - [x] 2-1: *What is it and what is it for?*
 - [x] 2-2: *Understanding the commands*
 - [x] 2-3: *Internet - Understanding how it works*
+##### Block 3: Introduction - HTML & CSS
+- [x] 3-1: *HTML & CSS - Page structures*
