@@ -39,7 +39,3 @@
 - [] 4-6: *JavaScript - Working with elements*
 - [] 4-7: *JavaScript - Events*
 - [] 4-8: *JavaScript - Web Storage*
-##### Block 5: Introduction - JavaScript - Projects
-- [] 5-1: *[Project - Meme Generator]()*
-- [] 5-2: *[Project - Art with Pixels]()*
-- [] 5-3: *[Project - To Do List]()*
