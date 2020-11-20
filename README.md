@@ -26,3 +26,16 @@
 - [x] 2-3: *Internet - Understanding how it works*
 ##### Block 3: Introduction - HTML & CSS
 - [x] 3-1: *HTML & CSS - Page structures*
+- [] 3-2: *HTML & CSS - Getting Started with CSS*
+- [] 3-3: *HTML & CSS - Selectors and positioning*
+- [] 3-4: *Semantic HTML*
+- [] 3-5: *[Project - HTML & CSS](https://luizvicentin.github.io/portfolioWeb/)*
+##### Block 4: Introduction - JavaScript
+- [] 4-1: *JavaScript - Getting Started*
+- [] 4-2: *JavaScript - For Array and Loop*
+- [] 4-3: *JavaScript - Programming Logic and Algorithms*
+- [] 4-4: *JavaScript - Objects and functions*
+- [] 4-5: *JavaScript - DOM and selectors*
+- [] 4-6: *JavaScript - Working with elements*
+- [] 4-7: *JavaScript - Events*
+- [] 4-8: *JavaScript - Web Storage*
