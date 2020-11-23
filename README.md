@@ -15,12 +15,12 @@
 
  Studying JavaScript, HTML, CSS, React, Node, Express.js, SQL, Git, among other languages and frameworks.
 
- ## Introduction - Web Development :white_check_mark:
-##### Block 1: Introduction - Unix & Shell
+ ## Introduction - Web Development :hourglass_flowing_sand:
+##### Block 1: Introduction - Unix & Shell :white_check_mark:
 - [x] 1-3: *Unix & Bash - Part 1*
 - [x] 1-4: *Unix & Bash - Part 2*
 - [x] 1-5: *Shell Script*
-##### Block 2: Git & GitHub 
+##### Block 2: Git & GitHub :white_check_mark:
 - [x] 2-1: *What is it and what is it for?*
 - [x] 2-2: *Understanding the commands*
 - [x] 2-3: *Internet - Understanding how it works*
@@ -28,7 +28,7 @@
 - [x] 3-1: *HTML & CSS - Page structures*
 - [x] 3-2: *HTML & CSS - Getting Started with CSS*
 - [x] 3-3: *HTML & CSS - Selectors and positioning*
-- [] 3-4: *Semantic HTML*
+- [] 3-4: *Semantic HTML* :hourglass_flowing_sand:
 - [] 3-5: *[Project - HTML & CSS](https://luizvicentin.github.io/portfolioWeb/)*
 ##### Block 4: Introduction - JavaScript
 - [] 4-1: *JavaScript - Getting Started*
