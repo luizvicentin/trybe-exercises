@@ -30,7 +30,7 @@
 - [x] 3-3: *HTML & CSS - Selectors and positioning*
 - [x] 3-4: *Semantic HTML* 
 - [] 3-5: *[Project - HTML & CSS](https://luizvicentin.github.io/portfolioWeb/)* :hourglass_flowing_sand:
-##### Block 4: Introduction - JavaScript :hourglass_flowing_sand:
+##### Block 4: Introduction to JavaScript and Programming Logic :hourglass_flowing_sand:
 - [] 4-1: *JavaScript - Getting Started*
 - [] 4-2: *JavaScript - For Array and Loop*
 - [] 4-3: *JavaScript - Programming Logic and Algorithms*
