@@ -2,7 +2,7 @@
     <img alt="Trybe" src="https://github.com/luizvicentin/trybe-exercises/blob/master/trybe_logo.jpeg" />
 </h1>
 
-<h1 align="center"> Exercises Trybe </h1> :man_technologist:
+<h1 align="center"> Exercises Trybe </h1> 
 
 <blockquote align="center">“Do your best, but always on time!”</blockquote>
 
@@ -31,7 +31,7 @@
 - [x] 3-4: *Semantic HTML* 
 - [x] 3-5: *[Project - HTML & CSS](https://luizvicentin.github.io/portfolioWeb/)* 
 ##### Block 4: Introduction to JavaScript and Programming Logic :hourglass_flowing_sand:
-- [] 4-1: *JavaScript - Getting Started* :hourglass_flowing_sand:
+- [] 4-1: *JavaScript - Getting Started* :hourglass_flowing_sand::man_technologist:
 - [] 4-2: *JavaScript - For Array and Loop*
 - [] 4-3: *JavaScript - Programming Logic and Algorithms*
 - [] 4-4: *JavaScript - Objects and functions*
