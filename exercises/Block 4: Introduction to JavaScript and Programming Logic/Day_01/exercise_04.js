@@ -1,11 +1,9 @@
-console.log(positivoNegativo(9));
+let value = 23;
 
-function positivoNegativo(num) {
-  if (num > 0) {
-    return "positive";
-  } else if (num < 0) {
-    return "negative";
-  } else {
-    return "zero";
-  }
-}
+if (value > 0) {
+  console.log("Positive");
+} else if (value < 0) {
+  console.log("Negative");
+} else {
+  console.log("Zero");
+};
