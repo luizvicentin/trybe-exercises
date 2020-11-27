@@ -1,19 +1,19 @@
 //Operators (+, -, *, /, %)
 
-let x = 5;
-let y = 10;
+let a = 5;
+let b = 10;
 
-let soma = x + y;
+let soma = a + b;
 console.log('A soma de x e y é igual a ' + soma + '.');
 
-let subt =  x - y;
+let subt =  a - b;
 console.log('A subtração de x e y é igual a '  + subt + '.');
 
-let multi = x * y;
+let multi = a * b;
 console.log('A multiplicação de x e y é igual a ' + multi + '.');
 
-let div = y / x;
+let div = a / b;
 console.log('A divisão entre x e y é igual a ' + div + '.');
 
-let mod = y % x;
+let mod = a % b;
 console.log('O módulo entre x e y dá o resto igual a ' + mod + '.');
