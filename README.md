@@ -31,9 +31,9 @@
 - [x] 3-4: *Semantic HTML* 
 - [x] 3-5: *[Project - HTML & CSS](https://luizvicentin.github.io/portfolioWeb/)* 
 ##### Block 4: Introduction to JavaScript and Programming Logic :white_check_mark:
-- [] 4-1: *JavaScript - Getting Started* :hourglass_flowing_sand::man_technologist:
-- [] 4-2: *JavaScript - For Array and Loop*
-- [] 4-3: *JavaScript - Programming Logic and Algorithms*
+- [x] 4-1: *JavaScript - Getting Started* :hourglass_flowing_sand::man_technologist:
+- [x] 4-2: *JavaScript - For Array and Loop* :hourglass_flowing_sand:
+- [] 4-3: *JavaScript - Programming Logic and Algorithms* :hourglass_flowing_sand:
 - [] 4-4: *JavaScript - Objects and functions*
 - [] 4-5: *JavaScript - DOM and selectors*
 - [] 4-6: *JavaScript - Working with elements*
