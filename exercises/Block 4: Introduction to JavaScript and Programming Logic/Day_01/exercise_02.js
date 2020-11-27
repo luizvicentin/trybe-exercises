@@ -1,9 +1,8 @@
-console.log(greaterThan(35, 85));
+let a = 37;
+let b = 73;
 
-function greaterThan(num1, num2) {
-  if (num1 > num2) {
-    return num1;
+if ( a > b) {
+  console.log(a);
   } else {
-    return num2;
-  }
-};
+    console.log(b);
+  };
