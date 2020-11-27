@@ -1,11 +1,11 @@
-console.log(greaterThan(9, 11, 20));
+let a = 9;
+let b = 11;
+let c = 20;
 
-function greaterThan(num1, num2, num3) {
-  if (num1 > num2 && num1 > num3) {
-    return num1;
-  } else if (num2 > num1 && num2 > num3) {
-    return num2;
-  } else {
-    return num3;
-  }
+if (a > b && a > c) {
+  console.log(a);
+} else if (b > a && b > c) {
+  console.log(b);
+} else {
+  console.log(c);
 }
