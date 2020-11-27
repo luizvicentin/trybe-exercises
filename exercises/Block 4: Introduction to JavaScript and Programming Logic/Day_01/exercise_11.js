@@ -24,54 +24,34 @@
 // O último cálculo para conseguir o salário líquido é R$ 2.670,00 - R$ 57,45 (salário-base - valor IR) = R$ 2.612,55.
 // Resultado: R$ 2.612,55.
 
-let salarioBruto = 4500;
-let aliquotaInss;
-let aliquotaIr;
-let salarioReduzido;
-let salarioLiquido;
 
-// verifica se o valor do salario está correto
-if (salarioBruto <= 0) {
-    console.log('O salário não é um valor válido')
-}
-else 
-{
-    // Calculo da aliquotaInss
+let aliquotINSS;
+let aliquotIR;
 
-    if (salarioBruto > 5189.82 ){
-        aliquotaInss = 570.88;
-    }
-    else if (salarioBruto >= 2594.93 ) {
-        aliquotaInss = salarioBruto*0.11;
-    }
-    else if (salarioBruto >= 1556.95 ) {
-        aliquotaInss = salarioBruto*0.09;
-    }
-    else {
-        aliquotaInss = salarioBruto*0.08;
-    }
+let grossSalary = 2000.00;
 
-    salarioReduzido = salarioBruto - aliquotaInss;
-
-    // Calculo da aliquotaIr
-
-    if (salarioReduzido >= 4664.68) {
-        aliquotaIr = (salarioReduzido*0.275 - 869.36);
-    }
-    else  if (salarioReduzido >= 3751.06) {
-        aliquotaIr = (salarioReduzido*0.225 - 636.13);
-    }
-    else  if (salarioReduzido >= 2826.66) {
-        aliquotaIr = (salarioReduzido*0.15 - 354.80);
-    }
-    else  if (salarioReduzido >= 1903.99) {
-        aliquotaIr = (salarioReduzido*0.075 - 142.80); 
-    }
-    else {
-        aliquotaIr = 0;
-    }
-
-    salarioLiquido = (salarioReduzido - aliquotaIr);
+if (grossSalary <= 1556.94) {
+  aliquotINSS = grossSalary * 0.08;
+} else if (grossSalary <= 2594.92) {
+  aliquotINSS = grossSalary * 0.09;
+} else if (grossSalary <= 5189.82) {
+  aliquotINSS = grossSalary * 0.11;
+} else {
+  aliquotINSS = 570.88;
 }
 
-console.log('O salário líquido de quem ganha $'+salarioBruto+' é: $'+salarioLiquido.toFixed(2));
+let baseSalary = grossSalary - aliquotINSS;
+
+if (baseSalary <= 1903.98) {
+  aliquotIR = 0;
+} else if (baseSalary <= 2826.65) {
+  aliquotIR = baseSalary * 0.075 - 142.80;
+} else if (baseSalary <= 3751.05) {
+  aliquotIR = baseSalary * 0.15 - 354.80;
+} else if (baseSalary <= 4664.68) {
+  aliquotIR = baseSalary * 0.225 - 636.13;
+} else {
+  aliquotIR = baseSalary * 0.275 - 869.36;
+};
+
+console.log("Salário: " + (baseSalary - aliquotIR));
