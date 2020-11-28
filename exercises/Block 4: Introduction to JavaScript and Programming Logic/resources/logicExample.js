@@ -2,7 +2,7 @@
 //Utilizando essa lógica, qual foi o valor que salvo na variável N em que o resultado que será impresso pelo console.log dará 55?
 //8, 9 ou 10?
 
-const n = ();
+const n = 9; // O valor de n deberia estar em branco.
 
 let resultado = 100;
 
