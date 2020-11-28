@@ -13,11 +13,11 @@ To do this, we divide the content into five parts:
 1. First you will learn about variables , constants , primitive types , dynamic typing , arithmetic operators , 
    assignment operators , logical operators , if/else and switch/case :
     
-    → _[First steps JavaScript](https://github.com/luizvicentin/trybe-exercises/tree/master/exercises/Block%204:%20Introduction%20to%20JavaScript%20and%20Programming%20Logic/Day_01)
+    → [First steps JavaScript](https://github.com/luizvicentin/trybe-exercises/tree/master/exercises/Block%204:%20Introduction%20to%20JavaScript%20and%20Programming%20Logic/Day_01)
 
 2. This part presents arrays and for :
 
-    → _[Array and loop For JavaScript](https://github.com/luizvicentin/trybe-exercises/tree/master/exercises/Block%204:%20Introduction%20to%20JavaScript%20and%20Programming%20Logic/Day_02)
+    → [Array and loop For JavaScript](https://github.com/luizvicentin/trybe-exercises/tree/master/exercises/Block%204:%20Introduction%20to%20JavaScript%20and%20Programming%20Logic/Day_02)
 
 3. In the third part you will learn about programming logic and algorithms :
     
