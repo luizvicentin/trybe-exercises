@@ -1,4 +1,9 @@
+<h1 align="center">
+    <img alt="Trybe" src="https://github.com/luizvicentin/trybe-exercises/blob/master/trybe_logo.jpeg" />
+</h1>
+
 # Introduction to JavaScript and Programming Logic
+<blockquote>“Do your best, but always on time!”</blockquote>
 
 ## What will we learn?
 
@@ -8,11 +13,11 @@ To do this, we divide the content into five parts:
 1. First you will learn about variables , constants , primitive types , dynamic typing , arithmetic operators , 
    assignment operators , logical operators , if/else and switch/case :
     
-    → First steps JavaScript
+    → _[First steps JavaScript](https://github.com/luizvicentin/trybe-exercises/tree/master/exercises/Block%204:%20Introduction%20to%20JavaScript%20and%20Programming%20Logic/Day_01)
 
 2. This part presents arrays and for :
 
-    → Array and loop For JavaScript
+    → _[Array and loop For JavaScript](https://github.com/luizvicentin/trybe-exercises/tree/master/exercises/Block%204:%20Introduction%20to%20JavaScript%20and%20Programming%20Logic/Day_02)
 
 3. In the third part you will learn about programming logic and algorithms :
     
