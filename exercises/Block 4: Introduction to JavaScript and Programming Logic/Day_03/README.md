@@ -11,4 +11,4 @@ Leia atentamente os enunciados e faça o que se pede!
 3. Agora inverta o lado do triângulo.
     - Atenção! Note que esse exercício é bem mais complexo que o anterior! Não basta, aqui, imprimir somente asteriscos. Você precisará de uma lógica para imprimir espaços também.
 
-4. Depois, faça uma pirâmide com n asteriscos de base
+4. Depois, faça uma pirâmide com n asteriscos de base.
