@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Trybe" src="https://github.com/luizvicentin/trybe-exercises/blob/master/trybe_logo.jpeg" />
+    <img alt="Trybe" src="https://github.com/luizvicentin/trybe-exercises/blob/master/exercises/Block%204:%20Introduction%20to%20JavaScript%20and%20Programming%20Logic/resources/download.jpeg" />
 </h1>
 
 # Introduction to JavaScript and Programming Logic
