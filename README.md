@@ -29,13 +29,11 @@
 - [x] 3-2: *HTML & CSS - Getting Started with CSS*
 - [x] 3-3: *HTML & CSS - Selectors and positioning*
 - [x] 3-4: *Semantic HTML* 
-- [x] 3-5: *[Project - HTML & CSS](https://luizvicentin.github.io/portfolioWeb/)* 
+- [x] 3-5: *HTML & CSS  [Project - HTML & CSS](https://luizvicentin.github.io/portfolioWeb/)* 
 ##### Block 4: Introduction to JavaScript and Programming Logic :white_check_mark:
-- [x] 4-1: *JavaScript - Getting Started* :hourglass_flowing_sand::man_technologist:
-- [x] 4-2: *JavaScript - For Array and Loop* :hourglass_flowing_sand:
-- [] 4-3: *JavaScript - Programming Logic and Algorithms* :hourglass_flowing_sand:
-- [] 4-4: *JavaScript - Objects and functions*
-- [] 4-5: *JavaScript - DOM and selectors*
-- [] 4-6: *JavaScript - Working with elements*
-- [] 4-7: *JavaScript - Events*
-- [] 4-8: *JavaScript - Web Storage*
+- [x] 4-1: *JavaScript - Getting Started*
+- [x] 4-2: *JavaScript - For Array and Loop*
+- [x] 4-3: *JavaScript - Programming Logic and Algorithms*
+- [] 4-4: *JavaScript - Objects and functions* :hourglass_flowing_sand::man_technologist:
+- [] 4-5: *JavaScript - [Project - Playground Functions] :man_technologist:
+
