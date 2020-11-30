@@ -1,4 +1,4 @@
-let pyramidBase = 7;
+let pyramidBase = 5;
 let symbol = "*";
 let lineInput = " ";
 let pyramidMiddle = (pyramidBase + 1) / 2;
