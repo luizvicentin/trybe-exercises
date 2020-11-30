@@ -9,4 +9,4 @@ function greaterThan ( a , b , c) {
   }
 };
 
-console.log(greaterThan( 9 , 11 , 20 ));
+console.log(greaterThan( 9 , 11 , 20 )); 
