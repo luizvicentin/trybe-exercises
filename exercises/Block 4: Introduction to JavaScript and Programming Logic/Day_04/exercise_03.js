@@ -7,6 +7,6 @@ function greaterThan ( a , b , c) {
   } else {
     return ( c + ' is greater than ' + a + ' and ' + b + '.' );
   }
-}
+};
 
-console.log(greaterThan( 9 , 11 , 20 ))
+console.log(greaterThan( 9 , 11 , 20 ));
