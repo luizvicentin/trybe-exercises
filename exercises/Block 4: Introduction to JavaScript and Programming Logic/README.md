@@ -21,11 +21,11 @@ To do this, we divide the content into five parts:
 
 3. In the third part you will learn about programming logic and algorithms :
     
-    → Programming Logic and JavaScript Algorithms
+    → [Programming Logic and JavaScript Algorithms](https://github.com/luizvicentin/trybe-exercises/tree/master/exercises/Block%204:%20Introduction%20to%20JavaScript%20and%20Programming%20Logic/Day_03)
 
 4. The fourth part deals with objects , for/in and functions :
     
-    → JavaScript objects and functions
+    → [JavaScript objects and functions](https://github.com/luizvicentin/trybe-exercises/tree/master/exercises/Block%204:%20Introduction%20to%20JavaScript%20and%20Programming%20Logic/Day_04)
 
 5. Last but not least, let's go to the Playground Functions Project:
     
