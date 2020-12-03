@@ -34,6 +34,6 @@
 - [x] 4-1: *JavaScript - Getting Started*
 - [x] 4-2: *JavaScript - For Array and Loop*
 - [x] 4-3: *JavaScript - Programming Logic and Algorithms*
-- [] 4-4: *JavaScript - Objects and functions* :hourglass_flowing_sand::man_technologist:
-- [] 4-5: *JavaScript - [Project - Playground Functions] :man_technologist:
+- [x] 4-4: *JavaScript - Objects and functions*
+- [] 4-5: *JavaScript - [Project - Playground Functions] :man_technologist::hourglass_flowing_sand:
 
