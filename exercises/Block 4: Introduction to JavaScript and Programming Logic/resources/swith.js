@@ -28,3 +28,8 @@ switch (trafficLight) {
         console.log('Value indefine!!')
         break;
 };
+
+//The structure switch/case is used when we want to peform differente actions.
+//The expresision we pass to switch is evaluated only once, and its value is compared
+// in each case. If this comparison is true, the block code os the evaluated case is executed.
+//If no value satifies the lists case, the code in is executed default.
