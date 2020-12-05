@@ -25,7 +25,7 @@ On DOM our page it is represented by us and objects, and it is through them that
 
 - text : Text that goes between the elements, is the entire content of the tags;
   
--atribute : Are all the attributes that a specific node has, such as class or id .
+- atribute : Are all the attributes that a specific node has, such as class or id .
 
 It was clear? Or is the idea of ​​the DOM still a little abstract?
 
