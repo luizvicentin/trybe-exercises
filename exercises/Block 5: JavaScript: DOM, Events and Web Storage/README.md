@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Trybe" src="https://github.com/luizvicentin/trybe-exercises/blob/master/exercises/Block%204:%20Introduction%20to%20JavaScript%20and%20Programming%20Logic/resources/download.jpeg" />
+    <img alt="DOM" src="https://github.com/luizvicentin/trybe-exercises/blob/master/exercises/Block%205:%20JavaScript:%20DOM%2C%20Events%20and%20Web%20Storage/dom.jpg" />
 </h1>
 
 The DOM. Or: how do HTML and JavaScript communicate?
