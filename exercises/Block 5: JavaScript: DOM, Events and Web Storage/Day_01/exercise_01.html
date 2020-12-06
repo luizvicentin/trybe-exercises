@@ -87,8 +87,14 @@
             convertsTextToUpperCase()
   
         //6. Crie uma função que exiba o conteúdo de todas as tags <p> no console.
-            
-            
+            function displayTheContentsOfAllTagsP() {
+                let pContent  = document.getElementsByTagName('p');
+                for (text of pContent) {
+                console.log(text.innerText);
+                }
+            }
+            displayTheContentsOfAllTagsP()
+
     </script>
   </body>
 </html>
