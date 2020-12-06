@@ -132,6 +132,10 @@
     document.querySelector('.center-content').style.backgroundColor = 'rgb( 76 , 164 , 106)';
 
 //15. Remova os dois últimos elementos ( nove e dez ) da lista criada no passo 8.
+    let list = document.querySelector('ul');
+    for ( let index = 0 ; index < 2 ; index += 1 ) {
+    list.removeChild(list.childNodes[list.childNodes.length -1]);
+}
     </script>
   </body>
 </html>
