@@ -1,52 +1,22 @@
-.buttonStyle {
-    display: block;
-    width: 100px;
-    margin: 3px auto;
-}
-
-.blockButtons {
+.textFamily {
     display: inline-block;
-    margin: 0 100px;
-}
-
-
-#userButtonsPreference {
-    text-align: center;
-}
-
-.mainText {
-    text-align: center;
-    margin: 0 20%;
-}
-
-.color1 {
-    color: #000000;
-}
-
-.color2 {
-    color: #dc6f73;
-}
-
-.color3 {
-    color: #f7de6f;
-}
-
-.color4 {
-    color: #6b116e;
-}
-
-.color5 {
-    color: #ffffff;
-}
-
-.color6 {
-    color: #0c263f;
-}
-
-.color7 {
-    color: #13ca32;
-}
-
-.color8 {
-    color: #d84545;
-}
+    padding: 5px;
+    margin: 10px;
+  }
+  
+  .textFamily:hover {
+    box-shadow: 2px 2px 5px rgb(0, 0, 0);
+  }
+  
+  #arial {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  #times {
+    font-family: 'Times New Roman', Times, serif;
+  }
+  
+  #monospace {
+    font-family: monospace;
+  }
+  

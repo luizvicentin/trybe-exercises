@@ -1,46 +1,79 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
-    <title>Document</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Jornal Nacional</title>
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <header>
-    </header>
-    <section id="userButtonsPreference">
-        <div class="blockButtons">
-            <strong>Text Color</strong>
-            <button class="buttonTextColor buttonStyle">#000000</button>
-            <button class="buttonTextColor buttonStyle">#dc6f73</button>
-            <button class="buttonTextColor buttonStyle">#f7de6f</button>
-            <button class="buttonTextColor buttonStyle">#1c8861</button>
+  <header>
+    <h1>Jornal Nacional</h1>
+  </header>
+  <main>
+    <article>
+      <section>
+        <h2>Lorem Ipsum</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc non condimentum enim. In vitae lectus vel quam posuere finibus eu a neque. Aliquam scelerisque ante dictum, efficitur est eget, varius diam. In ullamcorper molestie urna, a varius orci laoreet id. Nam aliquam dapibus velit, in feugiat libero porta in. Proin mi enim, condimentum non purus facilisis, feugiat condimentum risus. Suspendisse rhoncus libero eu libero aliquet pretium. Quisque in mi risus. Curabitur ut molestie magna. Mauris porta eu nisi vitae venenatis. Aliquam laoreet luctus felis, id mattis libero dapibus mollis. Sed quis ultrices turpis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
+
+        <p>Morbi fermentum, libero ut pharetra luctus, libero magna faucibus urna, maximus viverra sem turpis vitae leo. Nulla ut facilisis leo. Sed maximus enim ipsum, tristique sodales nisi egestas id. Curabitur euismod in nisi at ultricies. In dignissim, erat quis bibendum consequat, enim ipsum venenatis orci, at luctus est orci quis urna. Quisque tempor interdum velit, vitae dictum ante maximus vel. Vestibulum lacinia nisl sed odio dapibus fringilla. Morbi imperdiet venenatis semper. Sed et velit porttitor, dapibus nulla et, ullamcorper ante. Aenean semper at quam sed blandit. Donec non elit auctor, lacinia lacus non, fringilla velit.</p>
+
+        <p> nec nunc urna. Suspendisse tempor nisl leo, sit amet tempor quam ultrices et. Nullam nec velit elit. Nulla non sollicitudin dui. Aliquam id arcu at lacus ultrices pharetra eget et nulla. Nullam aliquet est risus, a rutrum metus aliquet quis. Maecenas eleifend leo nulla, sed pharetra nunc fringilla nec. Praesent nulla orci, dictum vitae vehicula a, condimentum dapibus ex. Fusce a ligula dolor. Maecenas ac diam augue. Aliquam rutrum varius dui, eget aliquam nisl iaculis et.</p>
+
+        <p>Sed luctus consequat mi nec sagittis. Integer venenatis sem ultrices massa luctus ultrices. Sed pellentesque, eros sit amet dapibus pulvinar, odio quam faucibus lectus, at ornare felis nulla quis ipsum. Proin dignissim urna sed risus tempor, ut posuere arcu mollis. Sed semper laoreet leo quis scelerisque. Curabitur lectus nisi, ornare vel mollis a, pellentesque quis dolor. Curabitur nec pharetra ante. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
+
+        <p>Praesent sed purus sed erat pharetra molestie non vitae magna. Phasellus vitae sagittis erat, faucibus facilisis erat. Suspendisse sit amet fermentum sapien. Ut pretium ex eu venenatis blandit. Suspendisse porta nibh fringilla, rhoncus felis at, laoreet tellus. Curabitur dui enim, ultrices nec enim a, facilisis aliquet ex. Morbi pellentesque posuere bibendum. Etiam quam massa, facilisis vitae feugiat eget, venenatis at augue. Duis maximus odio id cursus congue. Vestibulum sagittis nulla et mauris sodales, et posuere neque posuere. Fusce viverra ex non massa congue scelerisque. Sed ullamcorper facilisis elit porta dapibus. Mauris pellentesque, metus eu ullamcorper lobortis, nisl neque pretium augue, quis pulvinar est massa sed tellus.</p>
+
+        <p>Aenean nec pharetra massa. Morbi viverra facilisis mauris vel iaculis. In ligula tortor, semper quis leo in, congue aliquet ipsum. Maecenas accumsan sagittis neque id aliquam. Etiam ullamcorper eu ante id volutpat. Vivamus luctus venenatis ex sit amet placerat. Morbi tempor tortor id lacus aliquam, id commodo est accumsan. Phasellus leo elit, pretium et libero ac, euismod rutrum ante. Sed vitae condimentum elit. Donec suscipit, turpis et sodales sollicitudin, mauris orci laoreet enim, eget molestie mi turpis id turpis. Pellentesque a venenatis nunc, at congue velit. Donec tincidunt, ligula varius auctor lobortis, mi ex consequat eros, quis auctor tellus felis et nisl. Vestibulum in ante semper, aliquet justo ut, molestie purus. Aenean velit diam, lobortis ut iaculis eget, accumsan et justo. Nullam in congue eros.</p>
+      </section>
+    </article>
+    <aside>
+      <div id="backgroundColor">
+        <h4>Selecionar cor de fundo</h4>
+        <input type="color" name="backgroudColorInput" id="bkColorInput">
+        <button id="btnBkColor">
+          <span>Aplicar</span>
+        </button>
+      </div>
+      <div id="color">
+        <h4>Selecionar cor da fonte</h4>
+        <input type="color" name="backgroundColorInput" id="colorInput">
+        <button id="btnFontColor">
+          Aplicar
+        </button>
+      </div>
+      <div id="fontSize">
+        <h4>Selecionar tamanho da fonte</h4>
+        <button id="upFont">
+          Aumentar fonte
+        </button>
+        <button id="downFont">
+          Diminuir fonte
+        </button>
+      </div>
+      <div id="textHeight">
+        <h4>Selecionar espaçamento entre linhas</h4>
+        <button id="upHeight">
+          Aumentar espaçamento
+        </button>
+        <button id="downHeight">
+          Diminuir espaçamento
+        </button>
+      </div>
+      <div id="fontFamily">
+        <h4>Selecionar o tipo da fonte</h4>
+        <div class="textFamily" id="arial">
+          <p>Texto Exemplo</p>
         </div>
-        <div class="blockButtons">
-            <strong>Backgroung Color</strong>
-            <button class="buttonBGColor buttonStyle">#ffffff</button>
-            <button class="buttonBGColor buttonStyle">#0c263f</button>
-            <button class="buttonBGColor buttonStyle">#13ca32</button>
-            <button class="buttonBGColor buttonStyle">#d84545</button>
+        <div class="textFamily" id="times">
+          <p>Texto Exemplo</p>
         </div>
-        
-    </section>
-    <section class="mainText">
-        <h1>Title</h1>
-        <h2>Proin egestas ligula ut tincidunt sodales</h4>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget ipsum eget odio placerat mollis eget eget neque. Nunc vitae arcu congue, cursus sapien sit amet, fermentum purus. Integer neque tellus, vehicula ut tempor eget, pulvinar sed odio. In sed justo a metus venenatis ultricies nec ut lacus. Pellentesque vulputate lectus in egestas auctor. Phasellus ac neque quis nunc suscipit iaculis. Suspendisse vel ipsum tempor, congue metus eget, condimentum odio. Fusce ullamcorper turpis vitae felis sollicitudin, nec dapibus felis molestie. Maecenas laoreet est a tincidunt malesuada. Phasellus sollicitudin, ex nec vehicula feugiat, ipsum est auctor nunc, eu scelerisque nisi odio ac velit. Donec pretium fringilla lacus et vulputate. Vestibulum tincidunt ligula viverra nisi semper, sit amet congue eros semper. Mauris posuere, tortor eu luctus accumsan, diam metus viverra elit, id efficitur justo justo a elit. Phasellus ultricies luctus nulla, ac tristique turpis mollis molestie.</p>
-        <h2>Nulla facilisi proin</h2>
-        <p>Mauris sit amet volutpat mauris. Sed mollis, orci ac consequat scelerisque, ex turpis bibendum velit, et condimentum ligula purus nec elit. Aenean nunc ligula, tincidunt vel augue a, laoreet dapibus justo. Phasellus a lorem scelerisque, feugiat est tempus, eleifend mi. Proin in dolor lacinia, pretium augue vel, venenatis ex. Nulla sapien sem, eleifend in libero et, placerat egestas ante. Donec condimentum tincidunt lacinia. Nam luctus tempor risus, vel egestas sem fermentum id. Fusce rutrum viverra pretium. Integer aliquam justo et vehicula semper. Donec pretium eros et nulla eleifend viverra nec eget erat. Sed ut ante diam. In sit amet odio vitae augue facilisis rhoncus quis at eros.</p>
-        <h2>Morbi pulvinar sem at risus congue cursus.</h2>
-        <p>Sed metus quam, ornare sed diam in, porta accumsan velit. Donec non sodales erat. Vivamus dictum, tellus non vehicula elementum, urna leo posuere dui, et interdum massa mi ac quam. Aenean feugiat lectus eu risus maximus mattis. Vivamus pretium, purus vel bibendum dapibus, ipsum lacus euismod eros, nec ornare ligula libero a orci. Vivamus bibendum massa non tellus vestibulum, sit amet cursus est gravida. Nunc faucibus suscipit tempus. Proin egestas ligula ut tincidunt sodales. Nam enim quam, tempus vitae dapibus at, ullamcorper ut mauris.</p>
-        <h2>Aliquam at ligula nisil</h2>
-        <p>Nulla egestas dolor in magna tempus sollicitudin. Donec ex felis, gravida sed fermentum hendrerit, tempus eu justo. Nulla facilisi. Proin iaculis leo sit amet libero aliquam, sit amet aliquam erat fringilla. Integer ac tellus vehicula, cursus dui nec, eleifend dui. Praesent eget diam diam. Aliquam at ligula nisi.</p>
-        <h2>Neque porro quisquam est qui dolorem</h2>
-        <p>Vivamus a sapien diam. Nullam in gravida velit. Interdum et malesuada fames ac ante ipsum primis in faucibus. Ut ullamcorper urna a finibus auctor. Morbi pulvinar sem at risus congue cursus. Donec vel dolor id velit placerat auctor. Integer scelerisque purus id rutrum pulvinar. Quisque vulputate dapibus libero, sagittis semper justo consectetur sit amet. Nunc ut gravida urna, sed interdum diam. Vivamus laoreet libero vitae sollicitudin consectetur. Mauris posuere facilisis sem, et feugiat nisi iaculis a. Proin imperdiet tellus velit, non scelerisque massa vehicula vel.</p>
-    </section>
-    <script src="script.js"></script>
-    <footer>
-    </footer>
+        <div class="textFamily" id="monospace">
+          <p>Texto Exemplo</p>
+        </div>
+      </div>
+    </aside>
+  </main>
+  <script src="script.js"></script>
 </body>
 </html>
