@@ -35,16 +35,22 @@
 - [x] 4-2: *JavaScript - For Array and Loop*
 - [x] 4-3: *JavaScript - Programming Logic and Algorithms*
 - [x] 4-4: *JavaScript - Objects and functions*
-- [x] 4-5: *JavaScript - [Project - Playground Functions] :man_technologist::hourglass_flowing_sand:
-##### Block 5: JavaScript: DOM, Events and Web Storage :white_check_mark:
+- [x] 4-5: *JavaScript - Project - Playground Functions*
+##### Block 5: JavaScript: DOM, Events and Web Storage :heavy_check_mark:
 - [x] 5-1: *JavaScript - DOM and Selectors*
 - [x] 5-2: *JavaScript - Working with elements*
 - [x] 5-3: *JavaScript - Events*
-- [] 5-4: *JavaScript - Web Storage*
-- [] 5-5: *JavaScript - Fundamentals - JavaScript - Projects*
-- [] 5-6: *JavaScript - Project - Art with Pixels*
-- [] 5-7: *JavaScript - Project - Task List*
-- [] 5-8: *JavaScript - (Bonus) Project - Meme Generator*
-- [] 5-9: *JavaScript - (Bonus) Project - Guess the Color*
-- [] 5-10: *JavaScript - (Bonus) Project - Mysterious Card*
-
+- [x] 5-4: *JavaScript - Web Storage*
+- [x] 5-5: *JavaScript - Fundamentals - JavaScript - Projects*
+- [x] 5-6: *JavaScript - Project - Art with Pixels*
+- [x] 5-7: *JavaScript - Project - Task List*
+- [x] 5-8: *JavaScript - (Bonus) Project - Meme Generator*
+- [x] 5-9: *JavaScript - (Bonus) Project - Guess the Color*
+- [x] 5-10: *JavaScript - (Bonus) Project - Mysterious Card*
+##### Block : Block 6 - HTML and CSS: Forms, Flexbox and Responsive :man_technologist::hourglass_flowing_sand:
+- [x] 6-1: *HTML & CSS - Forms*
+- [x] 6-2: *HTML & CSS - JavaScript Libraries and CSS Frameworks*
+- [x] 6-3: *HTML & CSS - CSS Flexbox - Part 1*
+- [x] 6-4: *HTML & CSS - CSS Flexbox - Part 2*
+- [x] 6-5: *HTML & CSS - CSS Responsive - Mobile First*
+- [x] 6-6: *Project - Facebook Homepage*
