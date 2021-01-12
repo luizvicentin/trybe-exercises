@@ -55,4 +55,4 @@
 - [x] 6-5: *HTML & CSS - CSS Responsive - Mobile First*
 - [x] 6-6: *Project - Facebook Homepage*
 ##### Block :Block 7 - Introduction to JavaScript ES6 and Unit Tests :man_technologist::hourglass_flowing_sand:
-- [] 7-1: *JavaScript ES6 - let, const, arrow functions e template literals*
+- [x] 7-1: *JavaScript ES6 - let, const, arrow functions e template literals*
