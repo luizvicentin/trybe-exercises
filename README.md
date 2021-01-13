@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Trybe" src="https://github.com/luizvicentin/trybe-exercises/blob/master/trybe_logo.jpeg" />
+    <img alt="Trybe" src="https://github.com/luizvicentin/trybe-exercises/blob/master/trybe_logo_new.jpeg" />
 </h1>
 
 <h1 align="center"> Exercises Trybe </h1> 
@@ -56,4 +56,4 @@
 - [x] 6-6: *Project - Facebook Homepage*
 ##### Block :Block 7 - Introduction to JavaScript ES6 and Unit Tests :man_technologist::hourglass_flowing_sand:
 - [x] 7-1: *JavaScript ES6 - let, const, arrow functions e template literals*
-- [o] 7-2: *JavaScript ES6 - Objects*
+- 7-2: *JavaScript ES6 - Objects*
