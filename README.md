@@ -56,3 +56,4 @@
 - [x] 6-6: *Project - Facebook Homepage*
 ##### Block :Block 7 - Introduction to JavaScript ES6 and Unit Tests :man_technologist::hourglass_flowing_sand:
 - [x] 7-1: *JavaScript ES6 - let, const, arrow functions e template literals*
+- [o] 7-2: *JavaScript ES6 - Objects*
