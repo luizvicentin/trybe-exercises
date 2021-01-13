@@ -1,8 +1,14 @@
 // Parte 1
 // Crie uma função que receba um número e retorne seu fatorial.
 // Na matemática, o fatorial de um número não negativo N , com a notação N! , é o produto de todos os inteiros menores ou iguais a N . Exemplo: 4! = 4 * 3 * 2 * 1 = 24.
-const fatorial = n => n <= 1 ? 1 : n * fatorial(n-1);
-console.log(fatorial(5));
+const fatorial = inputFatorial => {
+    let calcFatorial = 1;
+    for (let i = inputFatorial; i != 0; i -= 1 ){
+        calcFatorial = calcFatorial * i;
+    }
+    console.log(calcFatorial);
+}
+fatorial(5);
 
 // Parte 2
 //Crie uma função que receba uma frase e retorne qual a maior palavra.
