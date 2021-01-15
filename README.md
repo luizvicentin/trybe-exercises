@@ -42,8 +42,8 @@
 - [x] 5-3: *JavaScript - Events*
 - [x] 5-4: *JavaScript - Web Storage*
 - [x] 5-5: *JavaScript - Fundamentals - JavaScript - Projects*
-- [x] 5-6*[Pixels Art - JavaScript: DOM, Events and Web Storage](https://github.com/tryber/sd-09-project-pixels-art/tree/luizvicentin-project-pixel-art)*
-- [x] 5-7*[To Do List - JavaScript: DOM, Events and Web Storage](https://github.com/tryber/sd-09-project-todo-list/tree/luizvicentin-todo-list-project)*
+- [x] 5-6 *[Pixels Art - JavaScript: DOM, Events and Web Storage](https://github.com/tryber/sd-09-project-pixels-art/tree/luizvicentin-project-pixel-art)*
+- [x] 5-7 *[To Do List - JavaScript: DOM, Events and Web Storage](https://github.com/tryber/sd-09-project-todo-list/tree/luizvicentin-todo-list-project)*
 - [x] 5-8: *JavaScript - (Bonus) Project - Meme Generator*
 - [x] 5-9: *JavaScript - (Bonus) Project - Guess the Color*
 - [x] 5-10: *JavaScript - (Bonus) Project - Mysterious Card*
