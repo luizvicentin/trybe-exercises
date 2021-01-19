@@ -61,3 +61,4 @@
 - [x] 7-4: *[Project JS Unit Tests](https://github.com/tryber/sd-09-project-js-unit-tests/tree/luizvicentin-js-unit-tests)* :hourglass_flowing_sand:
 ##### Block :Block 8 - Higher Order Functions of ES6 JavaScript*:man_technologist::hourglass_flowing_sand:
 - [x] 8-1: *JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort*
+- [x] 8-2: *JavaScript ES6 - Higher Order Functions - map e filter*
