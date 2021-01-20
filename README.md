@@ -42,18 +42,23 @@
 - [x] 5-3: *JavaScript - Events*
 - [x] 5-4: *JavaScript - Web Storage*
 - [x] 5-5: *JavaScript - Fundamentals - JavaScript - Projects*
-- [x] 5-6: *JavaScript - Project - Art with Pixels*
-- [x] 5-7: *JavaScript - Project - Task List*
+- [x] 5-6 *[Pixels Art - JavaScript: DOM, Events and Web Storage](https://github.com/tryber/sd-09-project-pixels-art/tree/luizvicentin-project-pixel-art)*
+- [x] 5-7 *[To Do List - JavaScript: DOM, Events and Web Storage](https://github.com/tryber/sd-09-project-todo-list/tree/luizvicentin-todo-list-project)*
 - [x] 5-8: *JavaScript - (Bonus) Project - Meme Generator*
 - [x] 5-9: *JavaScript - (Bonus) Project - Guess the Color*
 - [x] 5-10: *JavaScript - (Bonus) Project - Mysterious Card*
-##### Block : Block 6 - HTML and CSS: Forms, Flexbox and Responsive :man_technologist::hourglass_flowing_sand:
+##### Block : Block 6 - HTML and CSS: Forms, Flexbox and Responsive :heavy_check_mark:
 - [x] 6-1: *HTML & CSS - Forms*
 - [x] 6-2: *HTML & CSS - JavaScript Libraries and CSS Frameworks*
 - [x] 6-3: *HTML & CSS - CSS Flexbox - Part 1*
 - [x] 6-4: *HTML & CSS - CSS Flexbox - Part 2*
 - [x] 6-5: *HTML & CSS - CSS Responsive - Mobile First*
-- [x] 6-6: *Project - Facebook Homepage*
+- [x] 6-6: *[Project - Facebook Homepage](https://github.com/tryber/sd-09-project-facebook-signup/tree/luizvicentin-facebook-project)*
 ##### Block :Block 7 - Introduction to JavaScript ES6 and Unit Tests :man_technologist::hourglass_flowing_sand:
 - [x] 7-1: *JavaScript ES6 - let, const, arrow functions e template literals*
-- 7-2: *JavaScript ES6 - Objects*
+- [x] 7-2: *JavaScript ES6 - Objects*
+- [x] 7-3: *JavaScript Unit Tests*
+- [x] 7-4: *[Project JS Unit Tests](https://github.com/tryber/sd-09-project-js-unit-tests/tree/luizvicentin-js-unit-tests)* :hourglass_flowing_sand:
+##### Block :Block 8 - Higher Order Functions of ES6 JavaScript*:man_technologist::hourglass_flowing_sand:
+- [x] 8-1: *JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort*
+- [x] 8-2: *JavaScript ES6 - Higher Order Functions - map e filter*
