@@ -73,10 +73,10 @@ const expectedResult = [
 
 function oldBooks() {
   // escreva seu código aqui
-  const wantedGenres = ['Fantasia', 'Ficção Científica'];
+  const currentYear = new Date().getFullYear();
   return books
-    .filter(book => wantedGenres.includes(book.genre))
-    .map(book => book.author.name).sort();
+    .filter(book => currentYear - book.releaseYear > 60)
+    .map(book => book.name);
 };
 
 assert.deepStrictEqual(oldBooks(), expectedResult);
