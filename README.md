@@ -54,11 +54,12 @@
 - [x] 6-4: *HTML & CSS - CSS Flexbox - Part 2*
 - [x] 6-5: *HTML & CSS - CSS Responsive - Mobile First*
 - [x] 6-6: *[Project - Facebook Homepage](https://github.com/tryber/sd-09-project-facebook-signup/tree/luizvicentin-facebook-project)*
-##### Block :Block 7 - Introduction to JavaScript ES6 and Unit Tests :man_technologist::hourglass_flowing_sand:
+##### Block :Block 7 - Introduction to JavaScript ES6 and Unit Tests :heavy_check_mark:
 - [x] 7-1: *JavaScript ES6 - let, const, arrow functions e template literals*
 - [x] 7-2: *JavaScript ES6 - Objects*
 - [x] 7-3: *JavaScript Unit Tests*
-- [x] 7-4: *[Project JS Unit Tests](https://github.com/tryber/sd-09-project-js-unit-tests/tree/luizvicentin-js-unit-tests)* :hourglass_flowing_sand:
+- [x] 7-4: *[Project JS Unit Tests](https://github.com/tryber/sd-09-project-js-unit-tests/tree/luizvicentin-js-unit-tests)* 
 ##### Block :Block 8 - Higher Order Functions of ES6 JavaScript*:man_technologist::hourglass_flowing_sand:
 - [x] 8-1: *JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort*
 - [x] 8-2: *JavaScript ES6 - Higher Order Functions - map e filter*
+- [x] 8-3: *JavaScript ES6 - Higher Order Functions - reduce*
