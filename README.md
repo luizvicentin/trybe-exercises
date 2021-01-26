@@ -65,3 +65,5 @@
 - [x] 8-3: *JavaScript ES6 - Higher Order Functions - reduce*
 - [x] 8-4: *JavaScript ES6 - spread operator, parameter rest, destructuring and more*
 - [x] 8-5: *Project - Zoo functions*
+##### Block 9 - Asynchronous JavaScript and Promises :man_technologist::hourglass_flowing_sand:
+- [] 9-1 *JavaScript - Asynchronous and Callbacks*
