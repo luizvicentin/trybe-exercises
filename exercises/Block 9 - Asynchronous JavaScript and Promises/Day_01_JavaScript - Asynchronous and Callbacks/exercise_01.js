@@ -29,3 +29,4 @@ const jupiter = {
 console.log(planetDistanceFromSun(mars)); // A
 console.log(planetDistanceFromSun(venus)); // B
 console.log(planetDistanceFromSun(jupiter)); // C
+console.log('A ordem de finalização das linhas comentadas é: A, B e C');
