@@ -71,3 +71,4 @@
 - [x] 9-3 *Project - Shopping Cart*
 ##### Block 10 - Automated tests with Jest :man_technologist::hourglass_flowing_sand:
 - [x] 10-1 *Jest - First Steps*
+- [x] 10-2 **
