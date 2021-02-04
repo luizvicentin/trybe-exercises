@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1612405349806" clover="3.2.0">
-  <project timestamp="1612405349806" name="All files">
-    <metrics statements="32" coveredstatements="32" conditionals="6" coveredconditionals="6" methods="10" coveredmethods="10" elements="48" coveredelements="48" complexity="0" loc="32" ncloc="32" packages="1" files="6" classes="6"/>
+<coverage generated="1612455744622" clover="3.2.0">
+  <project timestamp="1612455744623" name="All files">
+    <metrics statements="35" coveredstatements="35" conditionals="6" coveredconditionals="6" methods="12" coveredmethods="12" elements="53" coveredelements="53" complexity="0" loc="35" ncloc="35" packages="1" files="7" classes="7"/>
+    <file name="anagram.js" path="/home/luizvicentin/Projects/Trybe/trybe_exercises/exercises/Block 10 - Automated tests with Jest/anagram.js">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <line num="2" count="3" type="stmt"/>
+      <line num="7" count="6" type="stmt"/>
+      <line num="15" count="1" type="stmt"/>
+    </file>
     <file name="chunk.js" path="/home/luizvicentin/Projects/Trybe/trybe_exercises/exercises/Block 10 - Automated tests with Jest/chunk.js">
       <metrics statements="9" coveredstatements="9" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2"/>
       <line num="1" count="1" type="stmt"/>
