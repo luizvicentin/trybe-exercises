@@ -72,3 +72,5 @@
 ##### Block 10 - Automated tests with Jest :man_technologist::hourglass_flowing_sand:
 - [x] 10-1 *Jest - First Steps*
 - [x] 10-2 *Jest - Asynchronous Tests*
+- [x] 10-3 *Jest - Simulating behaviour - Mock functions*
+- [ ] 10-4 *Project - Asynchronous Jest and Mocking*
