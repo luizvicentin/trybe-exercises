@@ -15,7 +15,7 @@
 
  Studying JavaScript, HTML, CSS, React, Node, Express.js, SQL, Git, among other languages and frameworks.
 
- ## Introduction - Web Development :hourglass_flowing_sand:
+ ## Introduction - Web Development :heavy_check_mark:
 ##### Block 1: Introduction - Unix & Shell :heavy_check_mark:
 - [x] 1-3: *Unix & Bash - Part 1*
 - [x] 1-4: *Unix & Bash - Part 2*
@@ -74,3 +74,7 @@
 - [x] 10-2 *Jest - Asynchronous Tests*
 - [x] 10-3 *Jest - Simulating behaviour - Mock functions*
 - [ ] 10-4 *Project - Asynchronous Jest and Mocking*
+
+ ## Front-end development -  :check_mark:
+##### Block 11 - Introduction to Front-end
+- [ ] 11-1 *Introduction to React*
