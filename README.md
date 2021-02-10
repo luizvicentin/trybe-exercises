@@ -75,6 +75,6 @@
 - [x] 10-3 *Jest - Simulating behaviour - Mock functions*
 - [ ] 10-4 *Project - Asynchronous Jest and Mocking*
 
- ## Front-end development -  :check_mark:
+ ## Front-end development
 ##### Block 11 - Introduction to Front-end
-- [ ] 11-1 *Introduction to React*
+- [ ] 11-1 *Introduction to React* :man_technologist::hourglass_flowing_sand:
