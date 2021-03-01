@@ -69,16 +69,16 @@
 - [x] 9-1 *JavaScript - Asynchronous and Callbacks*
 - [x] 9-2 *JavaScript - Promises*
 - [x] 9-3 *Project - Shopping Cart*
-##### Block 10 - Automated tests with Jest :man_technologist::hourglass_flowing_sand:
+##### Block 10 - Automated tests with Jest :heavy_check_mark:
 - [x] 10-1 *Jest - First Steps*
 - [x] 10-2 *Jest - Asynchronous Tests*
 - [x] 10-3 *Jest - Simulating behaviour - Mock functions*
 - [x] 10-4 *Project - Asynchronous Jest and Mocking*
 
  ## Front-end development
-##### Block 11 - Introduction to Front-end
-- [x] 11-1 *Introduction to React* :man_technologist::hourglass_flowing_sand:
+##### Block 11 - Introduction to Front-end :heavy_check_mark:
+- [x] 11-1 *Introduction to React* 
 - [x] 11-2 *React Components*
 - [x] 11-3 *Project - Movie Cards Library*
-##### Block 12 - Components with State, Events and Forms with React
-- [ ] 12-1 *Components with status and events*
+##### Block 12 - Components with State, Events and Forms with React :man_technologist::hourglass_flowing_sand:
+- [ ] 12-1 *Components with status and events* :man_technologist::hourglass_flowing_sand:
