@@ -68,7 +68,7 @@
 ##### Block 9 - Asynchronous JavaScript and Promises :heavy_check_mark:
 - [x] 9-1 *JavaScript - Asynchronous and Callbacks*
 - [x] 9-2 *JavaScript - Promises*
-- [x] 9-3 *Project - Shopping Cart*
+- [x] 9-3 *[Project - Shopping Cart](https://github.com/tryber/sd-09-project-shopping-cart/tree/luizvicentin-project-shopping-cart)*
 ##### Block 10 - Automated tests with Jest :heavy_check_mark:
 - [x] 10-1 *Jest - First Steps*
 - [x] 10-2 *Jest - Asynchronous Tests*
