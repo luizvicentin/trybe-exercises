@@ -73,7 +73,7 @@
 - [x] 10-1 *Jest - First Steps*
 - [x] 10-2 *Jest - Asynchronous Tests*
 - [x] 10-3 *Jest - Simulating behaviour - Mock functions*
-- [x] 10-4 *Project - Asynchronous Jest and Mocking*
+- [x] 10-4 *[Project - Asynchronous Jest and Mocking](https://github.com/tryber/sd-09-project-jest/tree/luizvicentin-project-jest)*
 
  ## Front-end development
 ##### Block 11 - Introduction to Front-end :heavy_check_mark:
