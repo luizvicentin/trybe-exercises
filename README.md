@@ -64,7 +64,7 @@
 - [x] 8-2: *JavaScript ES6 - Higher Order Functions - map e filter*
 - [x] 8-3: *JavaScript ES6 - Higher Order Functions - reduce*
 - [x] 8-4: *JavaScript ES6 - spread operator, parameter rest, destructuring and more*
-- [x] 8-5: *Project - Zoo functions*
+- [x] 8-5: *[Project - Zoo functions](https://github.com/tryber/sd-09-project-zoo-functions/tree/luizvicentin-zoo-functions-project)*
 ##### Block 9 - Asynchronous JavaScript and Promises :heavy_check_mark:
 - [x] 9-1 *JavaScript - Asynchronous and Callbacks*
 - [x] 9-2 *JavaScript - Promises*
