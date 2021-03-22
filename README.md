@@ -82,4 +82,5 @@
 - [x] 11-3 *Project - Movie Cards Library*
 ##### Block 12 - Components with State, Events and Forms with React :man_technologist::hourglass_flowing_sand:
 - [ ] 12-1 *Components with status and events* :man_technologist::hourglass_flowing_sand:
-- [ ] 12-2 *Forms*
+- [ ] 12-2 *Forms in React*
+- [ ] 12-3 *Project - Movie Cards Library Stateful*
