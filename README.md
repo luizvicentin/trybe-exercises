@@ -80,7 +80,42 @@
 - [x] 11-1 *Introduction to React* 
 - [x] 11-2 *React Components*
 - [x] 11-3 *Project - Movie Cards Library*
-##### Block 12 - Components with State, Events and Forms with React :man_technologist::hourglass_flowing_sand:
-- [ ] 12-1 *Components with status and events* 
-- [ ] 12-2 *Forms in React*
-- [ ] 12-3 *Project - Movie Cards Library Stateful*
+##### Block 12 - Components with State, Events and Forms with React :heavy_check_mark:
+- [x] 12-1 *Components with status and events* 
+- [x] 12-2 *Forms in React*
+- [x] 12-3 *Project - Movie Cards Library Stateful*
+##### Block 13 - Component Lifecycle and React Router :heavy_check_mark:
+- [x] 13-1 *Component Lifecycle* 
+- [x] 13-2 *React Router*
+- [x] 13-3 *Project - Movie Cards Library CRUD*
+##### Block 14 - Agile Methodologies :heavy_check_mark:
+- [x] 14-1 *Agile Methodologies* 
+- [x] 14-2 *Project - Frontend Online Store*
+##### Block 15 - Automated Testing with React Testing Library :heavy_check_mark:
+- [x] 15-1 *RTL - First Steps* 
+- [x] 15-2 *RTL - Mocks and Inputs*
+- [x] 15-3 *RTL - Testing React Router*
+- [x] 15-4 *RTL - Project - Tests in React*
+##### Block 16 - Stage Management with Redux :man_technologist::hourglass_flowing_sand:
+- [x] 16-1 *Introduction to Redux - The global State of the Application*
+- [x] 16-2 *Using Redux in React*
+- [x] 16-3 *Using Redux in React - Practice*
+- [x] 16-4 *Using Redux in React - Asynchronous Actions*
+- [x] 16-5 *Tests in React-Redux*
+- [x] 16-6 *Project - Tribe Wallet*
+##### Block 17 - Trivia Game Project :man_technologist::hourglass_flowing_sand:
+- [ ] 17-1 *Project - Trivia Game*
+##### Block 18 - Context API e React Hooks :man_technologist::hourglass_flowing_sand:
+- [ ] 18-1 *Context API of React*
+- [ ] 18-2 *React Hooks - useState e useContext*
+- [ ] 18-3 *React Hooks - useEffect e Customised Hooks*
+- [ ] 18-4 *Project - StarWars Datatable with Context API and Hooks*
+##### Block 19 - Recipe App Project :man_technologist::hourglass_flowing_sand:
+- [ ] 19-1 *Project - Recipe App*
+
+ ## Back-end development
+##### Block 20 - Introduction to SQL :man_technologist::hourglass_flowing_sand:
+- [ ] 20-1 *Introduction to Back-end*
+- [ ] 20-2
+
+
