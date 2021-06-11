@@ -116,6 +116,3 @@
  ## Back-end development
 ##### Block 20 - Introduction to SQL :man_technologist::hourglass_flowing_sand:
 - [ ] 20-1 *Introduction to Back-end*
-- [ ] 20-2
-
-
